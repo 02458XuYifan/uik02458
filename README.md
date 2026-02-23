@@ -1,6 +1,14 @@
 # usage
-video_analyzer.py
-python video_analyzer.py C:\Users\uik02458\Desktop\files\PythonProject\YOLO\test_vedio.mp4 --fps 2.0
+carmer.py
+
+调用摄像头检测当前路口状况，默认每3秒自动录制一个片段上传
+
+
+<img width="499" height="397" alt="image" src="https://github.com/user-attachments/assets/3f216095-5ecb-4173-8542-cc7e28c9d47b" />
+
+
+
 
 test.py
-修改代码内视频路径后直接运行
+
+输入一个视频的路径，通过代码中的提示词分析视频
