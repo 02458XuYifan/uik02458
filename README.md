@@ -1,5 +1,5 @@
 # usage
-carmer.py
+car_camera.py
 
 调用摄像头检测当前路口状况，默认每3秒自动录制一个片段上传
 
