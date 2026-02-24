@@ -1,14 +1,6 @@
 # usage
-car_camera.py
+cross_ped_inter_sign_async.py
 
-调用摄像头检测当前路口状况，默认每3秒自动录制一个片段上传
+新增检测 十字路口/交通标志
 
-
-<img width="499" height="397" alt="image" src="https://github.com/user-attachments/assets/3f216095-5ecb-4173-8542-cc7e28c9d47b" />
-
-
-
-
-test.py
-
-输入一个视频的路径，通过代码中的提示词分析视频
+<img width="1292" height="788" alt="屏幕截图 2026-02-24 130022" src="https://github.com/user-attachments/assets/dfc164de-dd15-422c-b07d-8edcad2cc345" />
